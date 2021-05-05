@@ -2,7 +2,6 @@
 
 Performed 3 types of model using VGGNET by Transfer learning.
 
-//
 ### Model 1 
 
 1. Used VGG-16 pretrained network without Fully Connected layers and initilized all the weights with Imagenet trained weights. 
